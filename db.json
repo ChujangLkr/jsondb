@@ -26,6 +26,11 @@
       "id": 2,
       "body": "comment 2",
       "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "comment 3",
+      "postId": 1
     }
   ],
   "profile": {
